@@ -40,11 +40,11 @@ Videos are published on YouTube in the playlist: [Made with MRTK: Mixed Reality 
 
 ## Resources
 
-Set up a mixed reality project in Unity with the Mixed Reality Toolkit: [aka.ms/learn-mrtk](https://aka.ms/learn-mrtk)
-
 Mixed Reality Toolkit Repo: [aka.ms/mrtk](https://aka.ms/mrtk)
 
 Tools to Install for Windows Mixed Reality Development: [aka.ms/install-the-tools](https://aka.ms/install-the-tools)
+
+Set up a mixed reality project in Unity with the Mixed Reality Toolkit: [aka.ms/learn-mrtk](https://aka.ms/learn-mrtk)
 
 MRTK Object Manipulator: [aka.ms/object-manipulator](https://aka.ms/object-manipulator)
 
