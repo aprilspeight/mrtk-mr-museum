@@ -27,10 +27,8 @@ Videos are published on YouTube in the playlist: [Made with MRTK: Mixed Reality 
 |---|---|---|
 | **Made with MRTK: Configure Unity for WMR Developement**  | Learn how to setup your Unity environment for Windows Mixed Reality Development  |   |
 | **Made with MRTK: Import MRTK into Unity** |  Learn how to import the Mixed Reality Toolkit into Unity and configure the project with the Mixed Reality Toolkit. |   |
-| **Made with MRTK: Enable Spatial Awareness System**  | Learn how to enable the MRTK Spatial Awareness system in Unity.  |   |
-| **Made with MRTK: Add a Spatial Observer** | Learn how to add a spatial observer to the configuration profile.  |   |
-| **Made with MRTK: Add Objects to Scene**  | Learn how to configure the objects in the scene with a rigidbody and collider. Also, learn how to add a button to make the objects active after mapping the environment with spatial mesh.  |   |
-| **Made with MRTK: Add Button to Hide Spatial Mesh**  | Learn how to add a button that hides the spatial mesh when pressed.  |   |
+| **Made with MRTK: Add Objects to Scene**  | Learn how to configure the objects in the scene with a rigidbody and collider.  |   |
+| **Made with MRTK: Add Scripts to Objects**  | Learn how to configure the ObjectManipulator.cs and InteractionGrabbable.cs scripts for the objects. |   |
 | **Made with MRTK: Demo**  |  View a demo of the project with a HoloLens 2. |   |
 
 ## View the Sample
