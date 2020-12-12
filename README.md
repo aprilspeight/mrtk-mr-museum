@@ -25,11 +25,11 @@ Videos are published on YouTube in the playlist: [Made with MRTK: Mixed Reality 
 
 |  Title |  Description |  Link |
 |---|---|---|
-| **Made with MRTK: Configure Unity for WMR Developement**  | Learn how to setup your Unity environment for Windows Mixed Reality Development  |   |
-| **Made with MRTK: Import MRTK into Unity** |  Learn how to import the Mixed Reality Toolkit into Unity and configure the project with the Mixed Reality Toolkit. |   |
-| **Made with MRTK: Add Objects to Scene**  | Learn how to configure the objects in the scene with a rigidbody and collider.  |   |
-| **Made with MRTK: Add Scripts to Objects**  | Learn how to configure the ObjectManipulator.cs and InteractionGrabbable.cs scripts for the objects. |   |
-| **Made with MRTK: Demo**  |  View a demo of the project with a HoloLens 2. |   |
+| **Mixed Reality Museum: Configure Unity for WMR Developement**  | Learn how to setup your Unity environment for Windows Mixed Reality Development  |   |
+| **Mixed Reality Museum: Import MRTK into Unity** |  Learn how to import the Mixed Reality Toolkit into Unity and configure the project with the Mixed Reality Toolkit. |   |
+| **Mixed Reality Museum: Add Objects to Scene**  | Learn how to configure the objects in the scene with a rigidbody and collider.  |   |
+| **Mixed Reality MuseumK: Add Scripts to Objects**  | Learn how to configure the ObjectManipulator.cs and InteractionGrabbable.cs scripts for the objects. |   |
+| **Mixed Reality Museum: Demo**  |  View a demo of the project with a HoloLens 2. |   |
 
 ## View the Sample
 
