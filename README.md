@@ -25,7 +25,7 @@ Videos are published on YouTube in the playlist: [Made with MRTK: Mixed Reality 
 
 |  Title |  Description |  Link |
 |---|---|---|
-| **Mixed Reality Museum: Configure Unity for WMR Developement**  | Learn how to setup your Unity environment for Windows Mixed Reality Development  |  [https://youtu.be/pX1UJ4u6Ulc](https://youtu.be/pX1UJ4u6Ulc ){:target="_blank"} |
+| **Mixed Reality Museum: Configure Unity for WMR Developement**  | Learn how to setup your Unity environment for Windows Mixed Reality Development  |  [https://youtu.be/pX1UJ4u6Ulc](https://youtu.be/pX1UJ4u6Ulc )|
 | **Mixed Reality Museum: Import MRTK into Unity** |  Learn how to import the Mixed Reality Toolkit into Unity and configure the project with the Mixed Reality Toolkit. | [https://youtu.be/QMMXyiK4p7c](https://youtu.be/QMMXyiK4p7c)|
 | **Mixed Reality Museum: Add Objects to Scene**  | Learn how to configure the objects in the scene with a rigidbody and collider.  |  [https://youtu.be/OgmLNPXIHgk](https://youtu.be/OgmLNPXIHgk) |
 | **Mixed Reality MuseumK: Add Scripts to Objects**  | Learn how to configure the ObjectManipulator.cs and InteractionGrabbable.cs scripts for the objects. |  [https://youtu.be/v6TMBb_aG_U](https://youtu.be/v6TMBb_aG_U)|
