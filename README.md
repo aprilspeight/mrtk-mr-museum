@@ -49,9 +49,9 @@ Note: To simulate hand input, press the **spacebar** (right hand) and/or the **l
 
 Mixed Reality Toolkit Repo: [aka.ms/mrtk](https://aka.ms/mrtk)
 
-Tools to Install for Windows Mixed Reality Development: [aka.ms/install-the-tools](https://aka.ms/install-the-tools)
+Tools to Install for Windows Mixed Reality Development: [aka.ms/install-the-tools](https://aka.ms/install-the-tools/?WT.mc_id=spatial-10639-apspeigh)
 
-Set up a mixed reality project in Unity with the Mixed Reality Toolkit: [aka.ms/learn-mrtk-unity](https://aka.ms/learn-mrtk-unity)
+Set up a mixed reality project in Unity with the Mixed Reality Toolkit: [aka.ms/learn-mrtk-unity](https://aka.ms/learn-mrtk-unity/?WT.mc_id=spatial-10639-apspeigh)
 
 MRTK Object Manipulator: [aka.ms/object-manipulator](https://aka.ms/object-manipulator)
 
