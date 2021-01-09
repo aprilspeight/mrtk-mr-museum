@@ -17,7 +17,7 @@ The videos and sample in this repository provides instruction for how to create 
 - Unity Version 2019.4.11f1
 - [MRTK Foundation Package 2.4.0](https://github.com/microsoft/MixedRealityToolkit-Unity/releases/tag/v2.4.0)
 - [Tools Installed for Windows Mixed Reality development](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/install-the-tools?tabs=unity)
-- Device
+- Device (optional)
 
 ## Videos
 
