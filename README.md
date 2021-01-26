@@ -39,7 +39,7 @@ Videos are published on YouTube in the playlist: [Made with MRTK: Mixed Reality 
 4. [Configure Unity for Windows Mixed Reality development](https://aka.ms/learn-mrtk-unity).
 5. Import the Mixed Reality Toolkit Foundation package. After import, in the MRTK Project Configurator window, select **MS HRTF Spatializer** for the **Spatializer Plugin**. 
 Next, apply the default settings in the **MRTK Project Configurator**. Finally, add MRTK to scene and configure.
-6. Open the sample_mr_museum (Project panel > Assets > Scenes > sample_mr_museum)
+6. Open the sample_mr_museum scene.(Project panel > Assets > Scenes > sample_mr_museum).
 7. Click the **play button** to enter play mode.
 
 Note: To simulate hand input, press the spacebar (right hand) and/or the left shift key (left hand).
