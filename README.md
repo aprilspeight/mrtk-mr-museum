@@ -21,7 +21,7 @@ The videos and sample in this repository provides instruction for how to create 
 
 ## Videos
 
-Videos are published on YouTube in the playlist: [Made with MRTK: Mixed Reality Museum](https://www.youtube.com/c/vogueandcode)
+Videos are published on YouTube in the playlist: [Made with MRTK: Mixed Reality Museum](https://www.youtube.com/playlist?list=PLAMIIZxk0qTSOZcCroV1_sfeAjEVMJ2Ix)
 
 |  Title |  Description |  Link |
 |---|---|---|
